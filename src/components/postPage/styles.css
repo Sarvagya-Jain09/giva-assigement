@@ -1,0 +1,90 @@
+.postHeader
+{
+    text-align: center;
+    margin-top: 25px;
+}
+.inputcontainer
+{
+    padding-bottom: 20px;
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    margin-left: 500px;
+    box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+    border-radius: 10px;
+}
+.destitle
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 25px;
+    font-weight: 0;
+    text-align: left;
+    margin-left: 100px;
+}
+.postdes{
+    height: 100px;
+    width : 300px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.tittitle
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 25px;
+    font-weight: 0;
+    text-align: left;
+    margin-left: 100px;
+}
+.submitbtn{
+    margin-top: 20px;
+
+}
+button{
+    width : 100px;
+    height : 50px;
+    border-radius: 10px;
+    background-color: blue;
+}
+.tablecontainer{
+    margin-top : 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+
+  }
+  
+  th,
+  td {
+    border: 1px solid #ffffff;
+    text-align: left;
+    padding: 8px;
+    font-size: 20px;
+  }
+  
+  th {
+    background-color: rgb(117, 201, 250);
+  }
+  
+  td {
+    background-color: rgb(205, 235, 253);
+  }
+  
+  form {
+    display: flex;
+    gap: 5px;
+  }
+  
+  form td:last-child {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  form * {
+    font-size: 28px;
+  }
+  
